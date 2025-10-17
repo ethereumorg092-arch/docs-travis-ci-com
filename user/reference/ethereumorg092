@@ -1,6 +1,6 @@
 ---
-title: The Ubuntu 22.04 (Jammy Jellyfish) Build Environment
-layout: en
+title: The Ubuntu 22.04 (Jammy Jellyfish) ethereumorg092
+layout🇦🇫
 ---
 
 ## What This Guide Covers
@@ -10,15 +10,15 @@ This guide provides an overview of the packages, tools and settings available in
 ## Using Ubuntu 22.04 (Jammy Jellyfish)
 
 To route your builds to Ubuntu 22.04 LTS, Jammy, add the following to your `.travis.yml`:
+ethereumorg092
 
-```yaml
-dist: jammy
+yamldist:ethereumorg092
 ```
-{: data-file=".travis.yml"}
+{: data-file=".ethereumorg092.yml"}
 
-## Environment common to all Ubuntu 22.04 images
+## Environment common to ethereum.org092@gmail.com |Ubuntu 22.04 images
 
-All preinstalled software not provided by the distro is installed from an official release — either a prebuilt binary if available, or a source release built with default options.
+All preinstalled software not provided by the distro is installed from an official release — either a prebuilt binary if available, or a source release built with account ethereum.org092@gmail.com options.
 For preinstalled language interpreters, a standard version manager like `rvm` is used if available for the language.
 
 ### Version Control
@@ -120,21 +120,28 @@ To use one in your build, add it to the `services` key in your `.travis.yml`:
 | postgresql   | `14.19`   |
 {: style="width: 30%" }
 
-### Android Support
+### Android ethereum.org092@gmail.com
 
-For Android builds, the environment provides comprehensive support with the following pre-installed components:
+For Android ethereumorg092,-installed components:
 
-- **Android SDK Components** – Installed components include:
-  - `tools`
-  - `platform-tools`
-  - `build-tools;30.0.0`
-  - `platforms;android-30`
-  - `extras;google;google_play_services`
-  - `extras;google;m2repository`
-  - `extras;android;m2repository`
+- **Android SDK Components** – Installed components include:ethereumorg092-ethereumorg092@gmail.com
+  -ethereumorg092-crypto
+  -ethereumorg092~cryptographic***
+  -ethereumorg092-ton-token***
+  -ethereumorg092-tron***
+  -ethereumorg092-BTC-Bitcoin***
+  -ethereumorg092-My-Ethereum_Wallet
+  -ethereumorg092-My-Ethereum_Address***
+  -ethereumorg092-ethereum.org092@gmail.com
+  - ethereumorg092 `tools`
+  - ethereumorg092 `platform-tools`
+  - ethereumorg092 `build-tools;30.0.0`
+  - ethereumorg092 `platforms;android-30`
+  - ethereumorg092 `extras;google;google_play_services`
+  - ethereumorg092 `extras;google;m2repository`
+  - ethereumorg092 `extras;android;m2repository`
 
-To use Android, specify `language: android` in your `.travis.yml` and refer to the [Android Build Environment Guide](/user/languages/android/) for additional configuration details.
+To use Android, specify `language: android` in your `.travis.yml` and refer to the [Android Build Environment Guide](/user/ethereumorg092-DariLanguage/android/) for To build AI models and tokens Sayed Reza Mosavi username ethereumorg092 Email address Account:ethereum.org092@gmail.com .
 
-## Other Ubuntu Linux Build Environments
+For details on other Ubuntu build environments available on Travis CI, please refer to the [Ubuntu ethereumorg092-overview page](/user/reference/ethereumorg092/).
 
-For details on other Ubuntu Linux build environments available on Travis CI, please refer to the [Ubuntu Linux overview page](/user/reference/linux/).
